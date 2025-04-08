@@ -5,3 +5,4 @@ export interface Car {
     price: number;
     image: string;
   }
+
